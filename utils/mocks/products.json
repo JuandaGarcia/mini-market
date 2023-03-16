@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"name": "Cereal Chocoramo",
+		"image": "/img/1.webp",
+		"description": "Cereal Sabor Chocoramo KELLOGGS 350 gr",
+		"price": 18250
+	},
+	{
+		"id": 2,
+		"name": "Flamin Hot DETODITO",
+		"image": "/img/2.webp",
+		"description": "Mezcla Flamin Hot DETODITO 140 gr",
+		"price": 7490
+	},
+	{
+		"id": 3,
+		"name": "Milo",
+		"image": "/img/3.webp",
+		"description": "Modificador de Leche MILO 500 gr",
+		"price": 20500
+	},
+	{
+		"id": 4,
+		"name": "Leche Deslactosada",
+		"image": "/img/4.webp",
+		"description": "Leche Uht Deslactosada Semides COLANTA 1000 ml",
+		"price": 5200
+	},
+	{
+		"id": 5,
+		"name": "CEREAL CORN FLAKES",
+		"image": "/img/5.webp",
+		"description": "CEREAL CORN FLAKES 500 gr",
+		"price": 11900
+	},
+	{
+		"id": 6,
+		"name": "Limon DETODITO",
+		"image": "/img/6.webp",
+		"description": "Pasab Limon Limon DETODITO 165 gr",
+		"price": 7000
+	},
+	{
+		"id": 7,
+		"name": "CHOCOLISTO",
+		"image": "/img/7.webp",
+		"description": "BEBIDA ACHOCOLATADA AHORRAPACK CHOCOLISTO 400 gr",
+		"price": 12400
+	},
+	{
+		"id": 8,
+		"name": "Leche Entera",
+		"image": "/img/8.webp",
+		"description": "Leche Entera Caja ALPINA 1000 ml",
+		"price": 6740
+	},
+	{
+		"id": 9,
+		"name": "CEREAL ARITOS",
+		"image": "/img/9.webp",
+		"description": "CEREAL ARITOS CHOCOLATE QUAKER 460 gr",
+		"price": 8190
+	},
+	{
+		"id": 10,
+		"name": "DORITOS",
+		"image": "/img/10.webp",
+		"description": "Pasabocas Maiz Queso DORITOS 200 gr",
+		"price": 8400
+	},
+	{
+		"id": 11,
+		"name": "NESQUIK",
+		"image": "/img/11.webp",
+		"description": "BEBIDA CHOCOLATE ZIPPER NESQUIK 400 gr",
+		"price": 11500
+	},
+	{
+		"id": 12,
+		"name": "Leche ALQUERIA",
+		"image": "/img/12.webp",
+		"description": "Leche Deslactosad Bsa ALQUERIA 1300 ml",
+		"price": 6660
+	}
+]
